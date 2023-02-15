@@ -1,0 +1,134 @@
+
+.home{
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    background-image: url('images/home-img.jpeg') ;
+    background-size: cover;
+    background-position: center;
+}
+.nabvar{
+    position: fixed;
+    top:0%;
+    width: 100%;
+}
+.home .content{
+    max-width: 50rem;
+}
+.us{
+    background-color: black;
+    padding: 20px 100px;
+}
+
+.content h3{
+    color: aliceblue;
+    font-size: 6rem;
+    padding: 3% 3% 0%;
+}
+
+.home .content p{
+    color: aliceblue;
+    font-size: 1.5rem;
+    opacity: 0.8;
+    line-height: 1.5;
+    padding: 2% 3%;
+}
+.about{
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.about-img{
+    width: 650px;
+}
+.ok{
+    color: white;
+    margin-top: 85px;
+    line-height: 1.5;
+}
+.menu{
+    text-align: center;
+    background-color: black;
+    padding: 20px 100px;
+}
+
+.ok3{
+    background-color: black;
+    border-color: white;
+    color: white;
+    padding: 20px 90px;
+    
+}
+
+.ok3:hover{
+    background-color:#EEEEEE;
+    border-color: white;
+    color: black;
+}
+
+.col-lg-4{
+    padding: 1% 2%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+.ok2{
+    background-color: black;
+    color: white;
+    border-color: white;
+}
+.container-fluid{
+    display: inline;
+}
+#products{
+    padding: 20px 100px;
+}
+.ok4{
+    padding: 0%;
+}
+#customer{
+    background-color: black;
+    padding: 20px 100px;
+}
+.review{
+    padding-left: 30%;
+    padding-top: 2.5%;
+    color: white;
+}
+.ok5{
+    padding-left: 5%;
+    text-align: center;
+    border-radius: 100%;
+}
+
+.pic{
+    border-radius: 100%;
+}
+.ok6{
+    background-color: black;
+    color: white;
+    
+}
+#fb{
+    text-align: center;
+    padding: 20px 100px;
+    background-color: black;
+    color: #fff;
+}
+.fab{
+    margin: 10px 20px;
+}
+#contact{
+    padding: 20px 100px;
+    color: white;
+    background-color: black;
+    padding-bottom: 20px;
+}
+input{
+    width: 95%;
+    background-color: black;
+    color: white;
+    border: none;
+    border-style: none;
+    margin: 20px 0px;
+}
